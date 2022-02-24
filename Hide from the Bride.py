@@ -88,8 +88,8 @@ class Enemy:
 
     # Konstruktor
     def __init__(self, x, y):
-        self.x = random.randint(0, 300)
-        self.y = random.randint(32, 300)
+        self.x = 0
+        self.y = 0
         self.image = pygame.image.load("assets/bride.png")
         self.enemy_change_x = 0
         self.enemy_change_y = 0
