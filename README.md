@@ -15,6 +15,8 @@ Maybe that is something, to implement in the future.
 
 It is a funny little game with some lofi background music.
 
+The comments inside my code are in German. But if you have any questions, feel free to ask.
+
 I also used auto py to exe (https://pypi.org/project/auto-py-to-exe/), to make an executable windows file, which you can download below:
 
 https://1drv.ms/u/s!AqYjqDeCNr2XgQVhK1l1_iBwAhAc
