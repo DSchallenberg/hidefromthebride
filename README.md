@@ -1,5 +1,5 @@
 # hidefromthebride
-A simple game I developed for my studies at university. Have fun!
+A simple game I developed for my studies at university using python and pygame. Have fun!
 
 You are a future husband, who has wedding cold feet. So try to avoid any collisions with your upcoming wife.
 Use arrow keys to move.
@@ -20,6 +20,8 @@ The comments inside my code are in German. But if you have any questions, feel f
 I also used auto py to exe (https://pypi.org/project/auto-py-to-exe/), to make an executable windows file, which you can download below:
 
 https://1drv.ms/u/s!AqYjqDeCNr2XgQVhK1l1_iBwAhAc
+
+Gameplay video: https://youtu.be/3jKCQ9lENcw
 
 
 
