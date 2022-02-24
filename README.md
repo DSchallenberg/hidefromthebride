@@ -6,7 +6,7 @@ Use arrow keys to move.
 In start and endscreen, use escape to leave the game.
 In main game window, use escape to return to the start screen.
 
-The highscore is equivalent to the seconds you are in game avoiding any collision.
+The highscore is equivalent to the seconds you are in game avoiding any collision. The three highscores are saved in the score.txt inside the score directory.
 
 Thanks to the random module, the wife is moving randomly in speed and direction. So be careful.
 
